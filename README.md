@@ -1,2 +1,2 @@
 # Hangman
-Coded a Hangman game using Bootstrap and Jquery
+Coded a Hangman game using Bootstrap and Jquery.
